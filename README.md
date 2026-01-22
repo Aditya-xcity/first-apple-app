@@ -7,7 +7,7 @@ I’m just getting started with the Apple ecosystem, learning **Swift / SwiftUI*
 ---
 
 
-![Attendance App UI](image/demo.jpg)
+![Attendance App UI](image/demo.jpeg)
 
 
 ## 🚀 About This Project
@@ -42,3 +42,4 @@ Consistency > Perfection.
 
 **Author:** Aditya Bhardwaj
 **Status:** Learning & Growing 💻📱
+
