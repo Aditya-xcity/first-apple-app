@@ -7,7 +7,7 @@ I’m just getting started with the Apple ecosystem, learning **Swift / SwiftUI*
 ---
 
 
-![App Demo](images/Demo.jfif)
+![App Demo](FirstAppleCode/images/Demo.jfif)
 
 
 
@@ -43,6 +43,7 @@ Consistency > Perfection.
 
 **Author:** Aditya Bhardwaj
 **Status:** Learning & Growing 💻📱
+
 
 
 
